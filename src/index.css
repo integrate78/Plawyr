@@ -22,14 +22,6 @@ code {
   background-color: rgb(19, 19, 19);
   
 }
-.heading {
-  display: flex;
-  align-items: baseline;
-  justify-content: left;
-  color: bisque;
-  margin: 5%;
-  float: top;
-}
 .player-card {
   width: 15rem;
   background-color: white;
