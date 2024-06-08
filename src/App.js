@@ -5,11 +5,7 @@ const AUDIO_FILE = "./assets/audio.mp3";
 
 function App() {
   return (
-    <div className="container">
-      <div className="heading">
-        <h1>Welcome to Playwr</h1>
-      </div>
-      
+    <div className="container">      
       <AudioPlayer audioSrc={AUDIO_FILE} />
     </div>
   );
