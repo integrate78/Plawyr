@@ -1,7 +1,7 @@
 import React from "react";
 import AudioPlayer from "./AudioPlayer";
 
-const AUDIO_FILE = "./assets/audio.mp3";
+const AUDIO_FILE = "./assets/mysong.mp3";
 
 function App() {
   return (
